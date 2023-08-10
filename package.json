@@ -4,7 +4,8 @@
   "description": "Node Project for Hichart",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "export HIGHCHARTS_VERSION=9.2.2"
   },
   "author": "Vijay Kumar",
   "license": "ISC",
