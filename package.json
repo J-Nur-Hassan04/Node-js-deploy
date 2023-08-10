@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "export HIGHCHARTS_VERSION=9.2.2"
+    "preinstall": "export HIGHCHARTS_VERSION=9.2.2 && ACCEPT_HIGHCHARTS_LICENSE=1"
   },
   "author": "Vijay Kumar",
   "license": "ISC",
